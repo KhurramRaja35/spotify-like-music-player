@@ -1,0 +1,194 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.flex{
+    display: flex;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.bg-black{
+    background-color: black;
+}
+.invert{
+    filter: invert(1)
+}
+.bg-grey{
+    background-color: #1f1f1f;
+    color: white;
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.p-1{
+    padding: 10px;
+}
+.p-0{
+    padding: 3px;
+}
+.gap{
+    gap: 15px;
+}
+.column{
+    flex-direction: column;
+}
+
+/* For WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #1e1e1e; /* Dark background for the track */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #444; /* Dark color for the scrollbar thumb */
+    border-radius: 6px; /* Rounded corners for the thumb */
+    border: 3px solid #1e1e1e; /* Border around the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Lighter color when hovered */
+}
+
+
+
+.buttons button a{
+    text-decoration: none;
+    color: white;
+}
+
+.songlist li.playing {
+    background-color: rgb(70, 70, 70);  /* Same as .card:hover */
+}
+
+
+
+.rightFooter{
+    gap: 15px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color:  #1f1f1f; /* Dark gray, like Spotify’s footer, instead of black */
+    padding: 5px 0; /* Add padding for desktop too, for consistency */
+}
+/* .rightFooter ul {
+    background-color: transparent; /* Ensure no black background on ul */
+
+.rightFooter ul li{
+    padding: 5px;
+    list-style: none;
+}
+.rightFooter ul li a{
+    color: #7a7a7a;
+    text-decoration: none;
+    transition: all 1s;
+}
+.rightFooter ul li a:hover{
+    text-decoration: underline;
+    color: white;
+    /* font-weight: bold; */
+}
+
+.logos{
+    gap: 20px;
+}
+
+.insta{
+        /* border: 2px solid white; */
+        border-radius: 50%;
+        height: 40px;
+        width: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #252525;
+}
+.twitter{
+        /* border: 2px solid white; */
+        border-radius: 50%;
+        height: 40px;
+        width: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #252525;
+}
+.facebook{
+        /* border: 2px solid white; */
+        border-radius: 50%;
+        height: 40px;
+        width: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #252525;
+}
+.insta:hover{
+    background-color:  rgb(70, 70, 70);
+}
+.twitter:hover{
+    background-color:  rgb(70, 70, 70);
+}
+.facebook:hover{
+    background-color:  rgb(70, 70, 70);
+}
+
+.copyright{
+    padding-inline: 30px;
+    color: #7a7a7a;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 15px; /* Add some space above the copyright */
+}
+
+
+/* search bar */
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 5px;
+    background-color: #252525;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.search-bar.active {
+    display: flex !important;
+}
+
+.search-input {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    font-size: 14px;
+    outline: none;
+}
+
+.search-input::placeholder {
+    color: #7a7a7a;
+}
+
+.search-close {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    filter: invert(1);
+}
