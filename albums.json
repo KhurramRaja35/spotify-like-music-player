@@ -6,95 +6,271 @@
             {"name": "Umair", "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"}
         ],
         "folder": "songs/my-terrible-mind/",
-        "cover": "songs/my-terrible-mind/cover.jpg"
+        "cover": "songs/my-terrible-mind/cover.jpg",
+        "songs": [
+        "5am%20In%20Lahore%20Talha%20Anjum%20(pagalall.com).mp3",
+        "30%20Shooter%20Talha%20Anjum%20(pagalall.com).mp3",
+        "Incurable%20Sadness%20Talha%20Anjum%20(pagalall.com).mp3",
+        "Run%20It%20Back%20Talha%20Anjum%20(pagalall.com).mp3"
+    ]
     },
     {
         "title": "GNX",
         "artist": [
             {"name": "Kendrick Lamar", "url": ""},
-            {"name": "Dody6", "url": "https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX"},
-            {"name": "SZA", "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"}
+            {"name": "Dody6", "url": "https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX"}
         ],
         "folder": "songs/gnx/",
-        "cover": "songs/gnx/cover.jpg"
+        "cover": "songs/gnx/cover.jpg",
+        "songs": [
+            "01.%20wacced%20out%20murals.mp3",
+            "02.%20squabble%20up.mp3",
+            "03.%20luther.mp3",
+            "04.%20man%20at%20the%20garden.mp3",
+            "05.%20hey%20now.mp3",
+            "06.%20reincarnated.mp3",
+            "07.%20tv%20off.mp3",
+            "08.%20dodger%20blue.mp3",
+            "09.%20peekaboo.mp3",
+            "10.%20heart%20pt.%206.mp3",
+            "11.%20gnx.mp3",
+            "12.%20gloria.mp3"
+        ]
     },
     {
         "title": "God's Plan",
         "artist": [{"name": "Drake", "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"}],
         "folder": "songs/gods-plan/",
-        "cover": "songs/gods-plan/cover.jpg"
+        "cover": "songs/gods-plan/cover.jpg",
+        "songs": [
+                "DIE%20TRYING%20-%20Drake.mp3",
+                "GIMME%20A%20HUG%20-%20Drake.mp3",
+                "God's%20Plan%20-%20Drake.mp3",
+                "Headlines%20-%20Drake.mp3",
+                "One%20Dance%20-%20Drake.mp3",
+                "Passionfruit%20-%20Drake.mp3"
+            ]            
     },
     {
         "title": "Utopia",
         "artist": [{"name": "Travis Scott", "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"}],
         "folder": "songs/utopia/",
-        "cover": "songs/utopia/cover.jpg"
+        "cover": "songs/utopia/cover.jpg",
+        "songs": [
+            "FEIN-Travis%20Scott.mp3",
+            "goosebumps%20-%20Travis%20Scott.mp3",
+            "HIGHEST%20IN%20THE%20ROOM%20-%20Travis%20Scott.mp3",
+            "Trance%20-%20Metro%20Boomin.mp3",
+            "Type%20Shit%20-%20Future.mp3"
+        ]
     },
     {
         "title": "Hit Me Hard And Soft",
         "artist": [{"name": "Billie Eilish", "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"}],
         "folder": "songs/hit-me-hard-n-soft/",
-        "cover": "songs/hit-me-hard-n-soft/cover.jpg"
+        "cover": "songs/hit-me-hard-n-soft/cover.jpg",
+        "songs":[
+                "BLUE%20-%20Billie%20Eilish.mp3",
+                "LAMOUR%20DE%20MA%20VIE%20-%20Billie%20Eilish.mp3",
+                "LUNCH%20-%20Billie%20Eilish.mp3",
+                "SKINNY%20-%20Billie%20Eilish.mp3",
+                "THE%20DINER%20-%20Billie%20Eilish.mp3",
+                "THE%20GREATEST%20-%20Billie%20Eilish.mp3",
+                "WILDFLOWER%20-%20Billie%20Eilish.mp3"
+        ]
     },
     {
         "title": "Future Nostalgia",
         "artist": [{"name": "Dua Lipa", "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"}],
         "folder": "songs/future-nostalgia/",
-        "cover": "songs/future-nostalgia/cover.jpg"
+        "cover": "songs/future-nostalgia/cover.jpg",
+        "songs":[
+            "Cold%20Heart%20-%20Dua%20Lipa.mp3",
+            "Dance%20The%20Night%20-%20From%20Barbie%20The%20Album%20-%20Dua%20Lipa.mp3",
+            "Levitating%20(feat.%20DaBaby)%20-%20Dua%20Lipa.mp3",
+            "New%20Rules%20-%20Dua%20Lipa.mp3",
+            "One%20Kiss%20(with%20Dua%20Lipa)%20-%20Calvin%20Harris.mp3",
+            "Scared%20to%20Be%20Lonely%20-%20Martin%20Garrix.mp3"
+        ]        
     },
     {
         "title": "All Eyes On Me",
         "artist": [{"name": "Tupac Shakur", "url": "https://open.spotify.com/playlist/6hNXQtUWQVskYWkf5qs2eZ"}],
         "folder": "songs/all-eyes-on-me/",
-        "cover": "songs/all-eyes-on-me/cover.jpg"
+        "cover": "songs/all-eyes-on-me/cover.jpg",
+        "songs":[
+            "2%20Of%20Amerikaz%20Most%20Wanted%20-%202Pac.mp3",
+            "All%20Eyez%20on%20Me%20-%20Gangsta%20Remix.mp3",
+            "Bad%20Guy%20-%20DJ%20Gangster.mp3",
+            "Breathin%20-%20Mustafa%20Aktas.mp3",
+            "Fuck%20All%20Y'All%20-%20Mustafa%20Aktas.mp3",
+            "Grab%20Your%20Glocks.mp3",
+            "Mama%20-%20Mustafa%20Aktas.mp3",
+            "Only%20Fear%20Of%20Death.mp3",
+            "West%20Coast%20-%20Mustafa%20Aktas.mp3",
+            "Will%20They%20Kill%20Me.mp3"
+        ]        
     },
     {
         "title": "KAMIKAZI",
         "artist": [{"name": "EMINEM", "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"}],
         "folder": "songs/kamikazi/",
-        "cover": "songs/kamikazi/cover1.jpg"
+        "cover": "songs/kamikazi/cover1.jpg",
+        "songs": [
+            "Godzilla%20(feat.%20Juice%20WRLD)%20-%20Eminem.mp3",
+            "Greatest%20-%20Eminem.mp3",
+            "Lose%20Yourself%20-%20Eminem.mp3",
+            "Lucky%20You%20(feat.%20Joyner%20Lucas)%20-%20Eminem.mp3",
+            "Not%20Afraid%20-%20Eminem.mp3",
+            "Not%20Alike%20(feat.%20Royce%20Da%205'9)%20-%20Eminem.mp3",
+            "The%20Real%20Slim%20Shady%20-%20Eminem.mp3",
+            "The%20Ringer%20-%20Eminem.mp3",
+            "Till%20I%20Collapse%20-%20Eminem.mp3",
+            "Venom%20-%20Music%20From%20The%20Motion%20Picture%20-%20Eminem.mp3",
+            "Without%20Me%20-%20Eminem.mp3"
+        ]        
     },
     {
         "title": "This is JJ47",
         "artist": [{"name": "JJ47", "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"}],
         "folder": "songs/this-is-jj47/",
-        "cover": "songs/this-is-jj47/cover.jpg"
+        "cover": "songs/this-is-jj47/cover.jpg",
+        "songs": [
+            "3%20AM%20IN%20NOWHERE%20-%20JJ47.mp3",
+            "03_00%20AM%20in%20Gulshan%20-%20JJ47.mp3",
+            "ABHI%20MASHOOR%20NAHI%20-%20JJ47.mp3",
+            "BAAZ%20-%20JJ47.mp3",
+            "BIG%20DAWG%20THING%20(feat.%20JJ47)%20-%20Umair.mp3",
+            "Cctv%20-%20Jokhay.mp3",
+            "FAST%20LANE%20-%20JJ47.mp3",
+            "INTENTIONS%20(feat.%20Natasha%20Noorani%20-%20JJ47)%20-%20Umair.mp3",
+            "J%20-%20AHSAN.mp3",
+            "J%20High%20Ho%20-%20JJ47.mp3",
+            "JUST%20A%20DREAM%20-%20Talhah%20Yunus.mp3",
+            "KHER%20RAKHNA%20-%20JJ47.mp3",
+            "LONG%20GONE%20-%20JJ47.mp3",
+            "Manzar%20Kashi%20-%20Jokhay.mp3",
+            "ON%20ME%20-%20JJ47.mp3",
+            "Runnin'%20-%20JJ47.mp3"
+        ]        
     },
     {
         "title": "Get Rich Or Die Tryin'",
         "artist": [{"name": "50 Cents", "url": "https://open.spotify.com/track/6s4kWgzQwsueo3mfllY1s6?si=87a1c26f0ca34c56"}],
         "folder": "songs/get-rich-or-die-tryin/",
-        "cover": "songs/get-rich-or-die-tryin/cover.jpg"
+        "cover": "songs/get-rich-or-die-tryin/cover.jpg",
+        "songs": [
+            "Candy%20Shop%20-%2050%20Cent.mp3",
+            "I'll%20Still%20Kill%20-%2050%20Cent.mp3",
+            "In%20Da%20Club%20-%2050%20Cent.mp3",
+            "Just%20A%20Lil%20Bit%20-%2050%20Cent.mp3",
+            "Many%20Men%20(Wish%20Death)%20-%2050%20Cent.mp3",
+            "P.I.M.P.%20-%2050%20Cent.mp3",
+            "Peep%20Show%20-%2050%20Cent.mp3",
+            "What%20Up%20Gangsta%20-%2050%20Cent.mp3"
+        ]        
     },
     {
         "title": "Ready To Die",
         "artist": [{"name": "The Notorious B.I.G", "url": "https://open.spotify.com/playlist/0OgILhVw5KEBrZwzVLZn8a"}],
         "folder": "songs/ready-to-die/",
-        "cover": "songs/ready-to-die/cover.jpg"
+        "cover": "songs/ready-to-die/cover.jpg",
+        "songs": [
+            "Biggie%20(feat.%20Junior%20M.A.F.I.A.)%20-The%20Notorious%20B.I.G..mp3",
+            "Can%20I%20Get%20Witcha%20(feat.%20Lil'%20Cease)-The%20Notorious%20B.I.G..mp3",
+            "Dead%20Wrong%20(feat.%20Eminem)%20-The%20Notorious%20B.I.G..mp3",
+            "Going%20Back%20to%20Cali%20-%20The%20Notorious%20B.I.G..mp3",
+            "Hypnotize%20-%20The%20Notorious%20B.I.G..mp3",
+            "Juicy-%20The%20Notorious%20B.I.G..mp3",
+            "Nasty%20Girl%20-%20The%20Notorious%20B.I.G..mp3",
+            "One%20More%20Chance%20-%20The%20Notorious%20B.I.G..mp3",
+            "Sky's%20the%20Limit%20(feat.%20112)%20-The%20Notorious%20B.I.G..mp3",
+            "The%20Notorious%20B.I.G..mp3"
+        ]        
     },
     {
         "title": "Still Rollin",
         "artist": [{"name": "Shubh", "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"}],
         "folder": "songs/still-rollin/",
-        "cover": "songs/still-rollin/cover.jpg"
+        "cover": "songs/still-rollin/cover.jpg",
+        "songs": [
+            "Aura%20-%20Shubh.mp3",
+            "Bandana%20-%20Shubh.mp3",
+            "Buckle%20Up%20-%20Shubh.mp3",
+            "Cheques%20-%20Shubh.mp3",
+            "Elevated%20-%20Shubh.mp3",
+            "Hood%20Anthem%20-%20Shubh.mp3",
+            "King%20Shit%20-%20Shubh.mp3",
+            "MVP%20-%20Shubh.mp3",
+            "No%20Love%20-%20Shubh.mp3",
+            "Offshore%20-%20Shubh.mp3",
+            "OG%20-%20Shubh.mp3",
+            "One%20Love%20-%20Shubh.mp3",
+            "Still%20Rollin%20-%20Shubh.mp3",
+            "We%20Rollin%20-%20Shubh.mp3",
+            "You%20and%20Me%20-%20Shubh.mp3"
+        ]        
     },
     {
         "title": "Rolling Papers",
         "artist": [{"name": "Wiz Khalifa", "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ckHLO"}],
         "folder": "songs/rolling-papers/",
-        "cover": "songs/rolling-papers/cover.jpg"
+        "cover": "songs/rolling-papers/cover.jpg",
+        "songs": [
+            "Gang%20Up%20-%20Young%20Thug.mp3",
+            "Hate%20Bein'%20Sober%20-%20Wiz%20Khalifa.mp3",
+            "Hopeless%20Romantic%20(feat.%20Swae%20Lee)%20-%20Wiz%20Khalifa.mp3",
+            "Or%20Nah%20-%20Wiz%20Khalifa.mp3",
+            "Payphone%20-%20Wiz%20Khalifa.mp3",
+            "See%20You%20Again%20-%20Wiz%20Khalifa.mp3",
+            "Smoke%20A%20Nigga%20(feat.%20Wiz%20Khalifa)%20-%20Juicy%20J.mp3",
+            "Still%20Wiz%20-%20Wiz%20Khalifa.mp3",
+            "Sucker%20for%20Pain%20-%20Wiz%20Khalifa.mp3",
+            "The%20Race%20-%20Wiz%20Khalifa.mp3",
+            "Young%20Wild%20and%20Free%20%20-%20Wiz%20Khalifa.mp3"
+        ]        
     },
     {
         "title": "Happier Than Ever",
         "artist": [{"name": "Billie Eilish", "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"}],
         "folder": "songs/happier-than-ever/",
-        "cover": "songs/happier-than-ever/cover.jpg"
+        "cover": "songs/happier-than-ever/cover.jpg",
+        "songs": [
+            "Billie%20Bossa%20Nova%20-%20Billie%20Eilish.mp3",
+            "Everybody%20Dies%20-%20Billie%20Eilish.mp3",
+            "Getting%20Older%20-%20Billie%20Eilish.mp3",
+            "GOLDWING%20-%20Billie%20Eilish.mp3",
+            "Happier%20Than%20Ever%20-%20Billie%20Eilish.mp3",
+            "I%20Didn't%20Change%20My%20Number%20-%20Billie%20Eilish.mp3",
+            "Lost%20Cause%20-%20Billie%20Eilish.mp3",
+            "Male%20Fantasy%20-%20Billie%20Eilish.mp3",
+            "My%20future%20-%20Billie%20Eilish.mp3",
+            "NDA%20-%20Billie%20Eilish.mp3",
+            "Not%20My%20Responsibility%20-%20Billie%20Eilish.mp3",
+            "Therefore%20I%20Am%20-%20Billie%20Eilish.mp3"
+        ]        
     },
     {
         "title": "The Search",
         "artist": [{"name": "NF", "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"}],
         "folder": "songs/the-search/",
-        "cover": "songs/the-search/cover.jpg"
+        "cover": "songs/the-search/cover.jpg",
+        "songs": [
+            "Chasing%20-%20NF.mp3",
+            "DRIFTING%20-%20NF.mp3",
+            "HAPPY%20-%20NF.mp3",
+            "HOPE%20-%20NF.mp3",
+            "If%20You%20Want%20Love%20-%20NF.mp3",
+            "Let%20You%20Down%20-%20NF.mp3",
+            "Lie%20-%20NF.mp3",
+            "PAID%20MY%20DUES%20-%20NF.mp3",
+            "Paralyzed%20-%20NF.mp3",
+            "RUNNING%20-%20NF.mp3",
+            "THATS%20A%20JOKE%20-%20NF.mp3",
+            "The%20Search%20-%20NF.mp3",
+            "TRUST%20-%20NF.mp3",
+            "WHEN%20I%20GROW%20UP%20-%20NF.mp3"
+        ]
     }
    
 ]
